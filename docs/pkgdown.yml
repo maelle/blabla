@@ -1,8 +1,8 @@
 pandoc: 2.16.2
 pkgdown: 2.0.1.9000
-pkgdown_sha: ~
+pkgdown_sha: 3fdbaf3f40ee7c092e22aa75aeea8261107ba001
 articles:
   blip: blip.html
   blop: blop.html
-last_built: 2022-01-11T09:32Z
+last_built: 2022-01-12T05:47Z
 
